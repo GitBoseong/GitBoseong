@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Boseong Kim's GitHub!
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=250&section=header&text=Boseong's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
 </div>
 
