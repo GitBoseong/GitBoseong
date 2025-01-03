@@ -48,12 +48,16 @@
 ---
 
 ## 📜 Publications
-*(Details coming soon)*  
+- Kim, B., Shin, B., Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions, 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea
 
 ---
 
 ## 🏅 Awards
-- *(Working hard to earn my first award... Stay tuned!)* 😊
+- 2021 한림대학교 SW 인재장학금I (1,254,600원)
+- 2023 한림대학교 SW 인재장학금I (2,509,200원)
+- 2023 한림대학교 한림추천장학금 (1,000,000원)
+- 2024 한림대학교 SW추천장학금 (500,000원)
+- 2024 한림대학교 SW교과목 멘토링 (800,000원)
 
 ---
 
