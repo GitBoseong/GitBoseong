@@ -48,7 +48,7 @@
 ---
 
 ## 📜 Publications
-- Kim, B., Shin, B., Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions, 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea
+- Kim, B., Shin, B., Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions, 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea (https://ipnt.or.kr/2024proc.php)
 
 ---
 
