@@ -7,7 +7,9 @@
 ---
 
 ## 👋 About Me
+<div align="center">
 "오늘 걸어가는 이 길은 가고자 했던 길의 어디쯤일까요?" <br>
+</div>
 - I am an undergraduate student at the **College of Information Science, Hallym University**
 - Undergraduate Researcher at the **Next Navigation Lab**
 
@@ -22,7 +24,7 @@
 - **Pedestrian Dead Reckoning (PDR)**  
 - **AI-PDR**  
 - **Indoor Positioning Systems**
-
+- **Machine learning**
 ---
 
 ## 📌 Research Focus
@@ -52,22 +54,20 @@
 
 ---
 
-## 🏅 Awards
-- 2021 한림대학교 SW 인재장학금I 
-- 2023 한림대학교 SW 인재장학금I 
-- 2023 한림대학교 한림추천장학금
-- 2024 한림대학교 SW추천장학금 
-- 2024 한림대학교 SW교과목 멘토링 장학금 
-
----
-
 ## 🚀 Research Activities
 - 2024 IPNT Conference 논문 발표(Oral)
 
 ---
 
-## ✨ Other
+## 🏅 Awards
+- 2021 한림대학교 SW 인재장학금I 
+- 2023 한림대학교 SW 인재장학금I 
+- 2023 한림대학교 한림추천장학금
+- 2024 한림대학교 SW추천장학금 
+- 2024 한림대학교 SW교과목 멘토링 장학금
 
+---
+## ✨ Other
 *(More updates coming soon)*  
 
 
