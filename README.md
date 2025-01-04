@@ -8,8 +8,9 @@
 
 ## 👋 About Me
 <div align="center">
-"오늘 걸어가는 이 길은 가고자 했던 길의 어디쯤일까요?" <br>
+"오늘 걸어가는 이 길은 가고자 했던 길의 어디쯤일까요?" 
 </div>
+<br>
 - I am an undergraduate student at the **College of Information Science, Hallym University**
 - Undergraduate Researcher at the **Next Navigation Lab**
 
