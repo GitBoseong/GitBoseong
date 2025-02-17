@@ -48,12 +48,14 @@
 ---
 
 ## 📜 Publications
-- Kim, B., Shin, B., Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions, 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea ([https://ipnt.or.kr/2024proc.php](https://ipnt.or.kr/2024proc/56?sfl=wr_name&stx=%EA%B9%80%EB%B3%B4%EC%84%B1&sop=and))
+- [C1] Kim, B., Shin, B., "Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions", Proc. 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea ([https://ipnt.or.kr/2024proc.php](https://ipnt.or.kr/2024proc/56?sfl=wr_name&stx=%EA%B9%80%EB%B3%B4%EC%84%B1&sop=and))
+- [C2] Li, S., Kim, B., & Shin, B., "A study on the estimation of vehicle speed using smartphone sensor data with AI technology" Proc. 2025 KICS Conference, Feb 5-7 2025, Yongpyong, Korea ([https://conf.kics.or.kr/program#session_19B-P])
 
 ---
 
 ## 🚀 Research Activities
 - 2024 IPNT Conference 논문 발표(Oral)
+- 2025 KICS Conference 포스터 발표
 
 ---
 
@@ -64,6 +66,7 @@
 - 2024 한림대학교 SW추천장학금 
 - 2024 한림대학교 SW교과목 멘토링 장학금
 - 2024 한림대학교 한림추천장학금(성적우수)
+- 2024 한림대학교 SW 인재장학금I
 
 ---
 ## ✨ Other
