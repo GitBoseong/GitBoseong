@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-"오늘 걸어가는 이 길은 가고자 했던 길의 어디쯤일까요?" <br>
+"전문가는 그 분야에서 저지를 수 있는 모든 실수를 해본 사람이다" <br>
 - I am an undergraduate student at the **College of Information Science, Hallym University**
 - Undergraduate Researcher at the **Next Navigation Lab**
 
