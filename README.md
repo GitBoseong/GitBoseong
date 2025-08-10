@@ -48,6 +48,7 @@
 ---
 
 ## 📜 Publications
+- [J1] Shin, B., Li, S., & Kim, B. (2025). Deep Learning-Based Vehicle Speed Estimation Using Smartphone Sensors in GNSS-Denied Environment. Applied Sciences, 15(16), 8824. https://doi.org/10.3390/app15168824
 - [C1] Kim, B., Shin, B., "Enhancing Smartphone-Based Pedestrian Dead Reckoning Using AI in Various Motions", Proc. 2024 IPNT Conference, Nov 6-8 2024, Jeju, Korea ([https://ipnt.or.kr/2024proc.php](https://ipnt.or.kr/2024proc/56?sfl=wr_name&stx=%EA%B9%80%EB%B3%B4%EC%84%B1&sop=and))
 - [C2] Li, S., Kim, B., Shin, B., "A study on the estimation of vehicle speed using smartphone sensor data with AI technology" Proc. 2025 KICS Conference, Feb 5-7 2025, Yongpyong, Korea ([[https://conf.kics.or.kr/program#session_19B-P](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132368)])
 
