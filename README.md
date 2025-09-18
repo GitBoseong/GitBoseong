@@ -12,6 +12,5 @@ Undergraduate Researcher @ **Next Navigation Lab**,
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://scholar.google.co.kr/citations?hl=ko&user=EO7yVY0AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0009-0008-5259-859X)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bskim01@hallym.ac.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitboseong)
 
 </div>
