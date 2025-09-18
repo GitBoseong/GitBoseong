@@ -4,7 +4,7 @@ Undergraduate Researcher @ **Next Navigation Lab**,
 **Division of Software, College of Information Science, Hallym University**
 
 - **Research**: Indoor Navigation · PDR · Sensor Fusion · Deep Learning  
-- **CV & Full Publications**: https://gitbosung.github.io/
+- **CV & Full Publications**: https://gitboseong.github.io/
 
 **Links**  
 - Google Scholar: https://scholar.google.co.kr/citations?hl=ko&user=EO7yVY0AAAAJ  
