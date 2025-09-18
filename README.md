@@ -3,7 +3,7 @@
 Undergraduate Researcher @ **Next Navigation Lab**,  
 **Division of Software, College of Information Science, Hallym University**
 
-- **Research**: Indoor Navigation · PDR · Sensor Fusion · Deep Learning  
+- **Research**: Indoor Positioning · PDR · Sensor Fusion · Deep Learning  
 
 <div align="center">
 
