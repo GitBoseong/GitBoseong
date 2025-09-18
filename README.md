@@ -5,7 +5,6 @@ Undergraduate Researcher @ **Next Navigation Lab**,
 
 - **Research**: Indoor Navigation · PDR · Sensor Fusion · Deep Learning  
 
-**Links**  
 <div align="center">
 
 [![CV Website](https://img.shields.io/badge/CV%20Website-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gitboseong.github.io/)
