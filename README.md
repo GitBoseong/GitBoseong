@@ -13,7 +13,6 @@
 
 ---
 ## ✨ Connect with Me
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bo_sta_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimbosung1217@gmail.com)
 [![SciProfiles](https://img.shields.io/badge/SciProfiles-View%20Profile-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0i...)](https://sciprofiles.com/profile/boseongkim)
 
@@ -89,31 +88,14 @@
 
 ## 🏗️ 참여 R&D 
 
-- **[AI에듀테크센터] 1:1 학습자 맞춤형 AI튜터 개발 방안** (AI에듀테크센터 · 2024.08.21–2025.02.14)  
-  - 역할: 참여연구원  
-  - 주요 내용: 개인별 맞춤형 AI 튜터 개발 방안 연구  
-  - 주관기관: 한림대학교 글로컬 대학  
-  - 예산: 19,990,000원  
-
-- **ePaper 패널기반 저전력 원격 디지털 안내/광고 게시판 및 생성형 AI 기반 관리 시스템 개발**  
-  (중소기업기술정보진흥원 · 2024.09.01–2025.08.31)  
-  - 역할: 참여연구원  
-  - 주요 내용:  
-    - 1단계 (2024.09.01–2024.12.31): 기본 시스템 및 생성형 AI 관리 플랫폼 개발  
-    - 2단계 (2025.01.01–2025.08.31): 시스템 고도화 및 서비스 연장  
-  - 프로그램: 창업성장기술개발(R&D)  
-  - 예산: 40,700,000원  
+- **[AI에듀테크센터] 1:1 학습자 맞춤형 AI튜터 개발 방안** (AI에듀테크센터 · 2024.08.21–2025.02.14)
+- 
+- **ePaper 패널기반 저전력 원격 디지털 안내/광고 게시판 및 생성형 AI 기반 관리 시스템 개발** 
 
 - **사이버범죄 수사단서 통합분석 및 추론시스템 개발(1연차)** (경찰청 · 2025.04.01–2025.12.31)  
-  - 역할: 보조연구원  
-  - 주요 내용: 사이버범죄 단서 통합분석 및 추론 시스템 연구  
-  - 예산: 870,000,000원 (총 연구비: 240억)
 
 - **[AI융합연구원] AI 기반 저비용 병원 내 위치추정 시스템 개발 및 실증 연구** (AI에듀테크센터 · 2025.06.01–2026.01.30)  
-  - 역할: 참여연구원  
-  - 주요 내용: 저비용 AI 병원 내 위치추정 시스템 개발·실증  
-  - 주관기관: 한림대학교 글로컬 대학  
-  - 예산: 25,000,000원  
+
 
 ---
 
