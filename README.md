@@ -1,6 +1,6 @@
 # Boseong Kim
 
-Undergraduate Researcher @ **Next Navigation Lab**,  
+Graduate Researcher @ **Next Navigation Lab**,  
 **Division of Software, College of Information Science, Hallym University**
 
 - **Research**: Indoor Positioning · PDR · Sensor Fusion · Deep Learning  
